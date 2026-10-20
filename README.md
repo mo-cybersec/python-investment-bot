@@ -13,29 +13,27 @@ This engine is engineered with strict industrial programming standards to ensure
 *   *Language:* Python 3.x (Core Architecture)
 *   *Interface:* Tkinter Secure GUI Framework
 *   *Deployment:* GitHub Cloud Infrastructure // Useme B2B Verified Contract Environment
+# 📊 mo-cybersec // Enterprise Real Estate Intelligence & Data Automation
 
----
-Developed by Marcel // Lead Security Architect at mo-cybersec. Empowering global digital infrastructure.
-# 📊 mo-cybersec // Enterprise Infrastructure & Data Automation
-
-Welcome to the official technology environment of *mo-cybersec*, a high-performance software forge engineered for enterprise cyber-compliance, automated asset tracking, and real-time financial data mining.
+Welcome to the official repository of *mo-cybersec*, a high-performance software forge engineered for enterprise cyber-compliance, automated asset tracking, and real-time market data mining.
 
 ## 🛡️ Active Production Repositories
 
-### 1. 📂 market_scraper.py // B2B Automated Market Scraper v1.0
-A commercial-grade data extraction application designed for competitive intelligence, e-commerce automation, and automated reporting.
-*   *Data Extraction Engine:* Simulates real-time e-commerce server handshakes to query market points (e.g., premium footwear, tech devices, luxury assets) and instantly populates local databases.
-*   *CSV/Excel Production Factory:* Compiles gathered raw unstructured network streams into highly organized spreadsheet reports (extracted_market_data.csv) ready for corporate financial analysis.
-*   *Cybersec Exception Shield:* Reinforced with structural try/except guardblocks. Prevents runtime memory leaks or crashes during cloud connection timeouts or corrupt string configurations.
+### 1. 🏨 market_scraper.py // Booking Market Intelligence Engine (v2.5 Hardened)
+A commercial-grade property intelligence and price aggregation application designed for real estate market analysis and e-commerce automated reporting.
+*   *Anti-Scraping Firewall Bypass:* Integrated with advanced User-Agent Spoofing modules that inject Mac OS header structures to camouflage network signatures and blend with human traffic.
+*   *Anti-Bot Rate Limiting:* Outfitted with an intelligent automated delay script (random.uniform) creating human-like search intervals to successfully bypass destination cloud security firewalls.
+*   *CSV/Excel Production Factory:* Compiles gathered raw unstructured property metrics (Hotel Name, Rates in PLN, Guest Reviews) into organized spreadsheet reports (booking_market_report.csv) ready for corporate analysis.
+*   *Live Crash Shield:* Reinforced with structural try/except/finally guardblocks to secure runtime uptime and handle network handshake timeouts safely without system failure.
 
-### 2. 🔒 Kalkulator.py // Real-Time Capital Flow Engine v3.0
+### 2. 🔒 Kalkulator.py // Real-Time Capital Flow Engine (v3.0 Secure)
 A secure financial pipeline monitoring internal cash flow dynamics on an enterprise level.
 *   *Security Gateway v3.0:* Entire interface hard-locked behind a secure admin firewall panel requiring cryptographic access tokens (mo-cybersec-admin).
-*   *Microsecond Cash Counter:* Breaks massive annual corporate capital targets into fluid, dynamic metrics monitored per individual millisecond.
+*   *Microsecond Cash Counter:* Breaks massive annual corporate capital targets into fluid, dynamic metrics monitored per individual second.
 
 ## 🛠️ Global Tech Stack
 *   *Core Architecture:* Python 3.14+ (High-Performance Compilation)
-*   *Frameworks:* Tkinter Secure GUI Engine // Treeview UI Core Data Matrix
+*   *Frameworks:* Tkinter Secure GUI Engine // Treeview UI Core Data Matrix // Async Threading
 *   *Infrastructure:* GitHub Cloud Repositories // Useme Verified B2B Framework
 
 ---
